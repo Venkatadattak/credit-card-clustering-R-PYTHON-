@@ -1,8 +1,8 @@
 # credit-card-clustering-R-PYTHON-
 The clustering analysis on credit card data to develop customer segmentation and to define marketing strategy Edwisor
-1.1 Problem Statement
-This case requires trainees to develop a customer segmentation to define
-marketing strategy. The sample dataset summarizes the usage behaviour of about
+1.1 Problem Statement<br>
+This case requires trainees to develop a customer segmentation to define<br>
+marketing strategy. The sample dataset summarizes the usage behaviour of about<br>
 9000 active credit card holders during the last 6 months. The file is at a customer
 level with 18 behavioural variables. I found that there are four types of purchase
 behaviour so I decided to cluster based on their purchase behaviour.
